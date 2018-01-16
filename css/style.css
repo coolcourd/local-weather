@@ -1,0 +1,19 @@
+body{background-color: #232425;}
+#whole{
+  max-width:95%;
+  border: 2px solid #555;
+  margin:auto;
+  
+}
+h1{color:#766E92;}
+h2{color:#cbcbcb;}
+h3{color:#D6D070}
+p{color:#766E92;}
+
+#format{text-align: right;
+margin-right: 40px;
+color: white;}
+
+#format:hover{
+  color: #039;
+}
